@@ -1,0 +1,21 @@
+.header{
+display: inline-block;
+max-height: 64px;
+}
+.logo{
+  display: inline-block;
+  padding-left: 24px;
+}
+.signin{
+  display: inline-block;
+  padding-right: 24px;
+}
+.banner{
+  background-color: gray;
+}
+.bannerimg{
+  padding-left: 24px;
+  padding-top: 32px;
+  padding-bottom: 32px;
+  max-width: 60%;
+}
